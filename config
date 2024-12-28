@@ -1,0 +1,4 @@
+font-family = "Cascadia Code NF Light"
+font-size = 13
+shell-integration = fish
+window-inherit-working-directory = false
